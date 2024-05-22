@@ -1,0 +1,26 @@
+footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem 5%;
+    border-top: 1px solid #000 ;
+}
+
+.footer-text{
+    font-size: 1.6rem;
+}
+
+.links i{
+    font-size: 3.5rem;
+    padding-right: 5px;
+    padding-top: 5px;
+    color: #000;
+    transition: 1s;
+}
+
+
+.links i:hover{
+    color: #0ef;
+}
+
+
